@@ -1,6 +1,6 @@
-# ToDo App
+# To-Do App
 
-This project supported by Reactjs(Frontend) and Django(Backend)
+This project is supported by Reactjs(Frontend) and Django(Backend)
 
 ## Feature
 
