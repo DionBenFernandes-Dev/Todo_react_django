@@ -1,4 +1,4 @@
-# To-Do App
+# To-Do App (Website)
 
 This project is supported by Reactjs(Frontend) and Django(Backend)
 
